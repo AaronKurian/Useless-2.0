@@ -59,6 +59,17 @@ npm run dev
 For Software:
 
 # Screenshots (Add at least 3)
+![Screenshot1](images/Screenshot%20from%202025-08-02%2008-01-16.png)
+*Dashboard view showing contact statistics and recent contacts overview*
+
+![Screenshot2](images/Screenshot%20from%202025-08-02%2008-01-52.png)
+*Contacts listing page with search functionality and contact cards*
+
+![Screenshot3](images/Screenshot%20from%202025-08-02%2008-02-08.png)
+*Contact details page displaying comprehensive contact information*
+
+![Screenshot4](images/Screenshot%20from%202025-08-02%2008-02-18.png)
+*Contact form for adding or editing contact information*
 
 
 
