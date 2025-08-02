@@ -62,8 +62,7 @@ For Software:
 
 
 
-### Project Demo
-# Video
+
 
 
 ## Team Contributions
